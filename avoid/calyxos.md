@@ -4,6 +4,7 @@ CalyxOS is promoted as being privacy and security focused but it weakens both co
 They make inaccurate claims about which patches are shipped in each of their release notes and set an inaccurate Android security patch level field. They downplay the importance of shipping these patches. Their own changes largely reduce rather than improving privacy/security.
 
 CalyxOS uses the [problematic microG](https://github.com/randomwithnoname/security-advice/blob/main/avoid/microg.md).
+
 They have what they call a firewall app which is simply the leaky LineageOS network toggles moved out of the Settings app for marketing purposes. There's a dangerous panic feature taken from elsewhere with unreliable data deletion. The VPN features are misguided and anti-privacy.
 
 VPN tethering feature from LineageOS is incredibly leaky and is worse for privacy than a per-device tunnel. Android has per-profile VPN support as one of the major reasons for profiles to exist. They put effort into undoing that and pushing users to use a less private approach.
