@@ -1,5 +1,5 @@
 # [CalyxOS](https://github.com/randomwithnoname/security-advice/tree/main/avoid/calyxos.md)
-CalyxOS is promoted as being privacy and security focused but it weakens both compared to the Android Open Source Project (AOSP). It often falls weeks or even months behind on standard privacy/security patches and introduces new vulnerabilities. They mislead their users about this
+CalyxOS is promoted as being privacy and security focused but it weakens both compared to the Android Open Source Project (AOSP). It often falls weeks or even months behind on standard privacy/security patches and introduces new vulnerabilities. They mislead their users about this.
 
 They make inaccurate claims about which patches are shipped in each of their release notes and set an inaccurate Android security patch level field. They downplay the importance of shipping these patches. Their own changes largely reduce rather than improving privacy/security.
 
