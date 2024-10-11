@@ -1,3 +1,4 @@
+# [Telegram](https://github.com/randomwithnoname/security-advice/tree/main/avoid/telegram.md)
 Telegram is not an [end-to-end encrypted (E2EE)](https://en.wikipedia.org/wiki/End-to-end_encryption) messaging app and has access to the vast majority of private messages on the platform. It also stores a lot of interesting data beyond that about users.
 
 Telegram has no E2EE support for groups or regular direct messages, only an unnecessarily crippled form of secret chat direct messages they hide away in a menu and discourage using. Hardly qualifies as an E2EE messaging app based on having that...
