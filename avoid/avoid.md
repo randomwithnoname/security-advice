@@ -3,7 +3,7 @@
 - [Aurora Store](https://github.com/randomwithnoname/security-advice/tree/main/avoid/aurora-store.md)
 - [F-Droid](https://github.com/randomwithnoname/security-advice/blob/main/avoid/f-droid.md)
 # [Operating systems](https://github.com/randomwithnoname/security-advice/edit/main/avoid/avoid.md#operating-systems)
-- Debian
+- [Debian](https://github.com/randomwithnoname/security-advice/blob/main/avoid/debian.md)
 - [CalyxOS](https://github.com/randomwithnoname/security-advice/blob/main/avoid/calyxos.md)
 - [/e/OS](https://github.com/randomwithnoname/security-advice/blob/main/avoid/e-os.md)
 - [LineageOS](https://github.com/randomwithnoname/security-advice/blob/main/avoid/lineageos.md)
