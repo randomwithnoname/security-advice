@@ -1,7 +1,7 @@
 # [Software you should avoid if you care about privacy or security](https://github.com/randomwithnoname/security-advice/tree/main/avoid/avoid.md)
 - [Aurora Store](https://github.com/randomwithnoname/security-advice/tree/main/avoid/aurora-store.md)
 - [CalyxOS](https://github.com/randomwithnoname/security-advice/blob/main/avoid/calyxos.md)
-- /e/OS
+- [/e/OS](https://github.com/randomwithnoname/security-advice/blob/main/avoid/e-os.md)
 - F-Droid
 - LineageOS
 - microG
