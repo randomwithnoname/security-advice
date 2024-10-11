@@ -8,7 +8,7 @@
 - [/e/OS](https://github.com/randomwithnoname/security-advice/blob/main/avoid/e-os.md)
 - [LineageOS](https://github.com/randomwithnoname/security-advice/blob/main/avoid/lineageos.md)
 # [Private messaging apps](https://github.com/randomwithnoname/security-advice/edit/main/avoid/avoid.md#private-messaging-apps)
-- Carrier-based calls and texts
+- [Carrier-based calls and texts](https://github.com/randomwithnoname/security-advice/blob/main/avoid/carrier-comms.md)
 - Element/Matrix
 - [Session](https://github.com/randomwithnoname/security-advice/blob/main/avoid/session.md)
 - Telegram
