@@ -3,7 +3,7 @@
 - [CalyxOS](https://github.com/randomwithnoname/security-advice/blob/main/avoid/calyxos.md)
 - [/e/OS](https://github.com/randomwithnoname/security-advice/blob/main/avoid/e-os.md)
 - [F-Droid](https://github.com/randomwithnoname/security-advice/blob/main/avoid/f-droid.md)
-- LineageOS
+- [LineageOS](https://github.com/randomwithnoname/security-advice/blob/main/avoid/lineageos.md)
 - microG
 - Session
 
