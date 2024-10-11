@@ -11,7 +11,7 @@
 - [Carrier-based calls and texts](https://github.com/randomwithnoname/security-advice/blob/main/avoid/carrier-comms.md)
 - Element/Matrix
 - [Session](https://github.com/randomwithnoname/security-advice/blob/main/avoid/session.md)
-- Telegram
+- [Telegram](https://github.com/randomwithnoname/security-advice/blob/main/avoid/telegram.md)
 # Miscellaneous
 - [microG](https://github.com/randomwithnoname/security-advice/tree/main/avoid/microg.md)
 
