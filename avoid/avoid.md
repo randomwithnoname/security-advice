@@ -2,7 +2,7 @@
 - [Aurora Store](https://github.com/randomwithnoname/security-advice/tree/main/avoid/aurora-store.md)
 - [CalyxOS](https://github.com/randomwithnoname/security-advice/blob/main/avoid/calyxos.md)
 - [/e/OS](https://github.com/randomwithnoname/security-advice/blob/main/avoid/e-os.md)
-- F-Droid
+- [F-Droid](https://github.com/randomwithnoname/security-advice/blob/main/avoid/f-droid.md)
 - LineageOS
 - microG
 - Session
