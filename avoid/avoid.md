@@ -4,7 +4,7 @@
 - [/e/OS](https://github.com/randomwithnoname/security-advice/blob/main/avoid/e-os.md)
 - [F-Droid](https://github.com/randomwithnoname/security-advice/blob/main/avoid/f-droid.md)
 - [LineageOS](https://github.com/randomwithnoname/security-advice/blob/main/avoid/lineageos.md)
-- microG
+- [microG](https://github.com/randomwithnoname/security-advice/tree/main/avoid/microg.md)
 - Session
 
 
