@@ -7,12 +7,13 @@
 - [CalyxOS](https://github.com/randomwithnoname/security-advice/blob/main/avoid/calyxos.md)
 - [/e/OS](https://github.com/randomwithnoname/security-advice/blob/main/avoid/e-os.md)
 - [LineageOS](https://github.com/randomwithnoname/security-advice/blob/main/avoid/lineageos.md)
-- [microG](https://github.com/randomwithnoname/security-advice/tree/main/avoid/microg.md)
 # [Private messaging apps](https://github.com/randomwithnoname/security-advice/edit/main/avoid/avoid.md#private-messaging-apps)
 - Carrier-based calls/texts
 - Element/Matrix
 - Session
 - Telegram
+# Miscellaneous
+- [microG](https://github.com/randomwithnoname/security-advice/tree/main/avoid/microg.md)
 
 Do not send hate mail to any of the projects above. I want them to improve so more people have real privacy and security, but I am not going to recommend faulty products.
 
