@@ -4,4 +4,4 @@ Session stopped using the industry standard [Signal protocol](https://en.m.wikip
 
 Perfect Forward Secrecy means that even if an attacker gets the encrypted messages and later compromises your device to get your main keys, they can't get the messages which no longer have session keys on your device.
 
-Session losing deniability doesn't matter to most people and isn't very practical until official versions of messaging apps allow you to create fake messages on your end. PFS is important though.
+Session losing deniability doesn't matter to most people and doesn't have much of a practical downside until official versions of messaging apps allow you to create fake messages on your end. PFS is important though.
