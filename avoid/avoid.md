@@ -10,11 +10,11 @@
 # [Private messaging apps](https://github.com/randomwithnoname/security-advice/edit/main/avoid/avoid.md#private-messaging-apps)
 - Carrier-based calls/texts
 - Element/Matrix
-- Session
+- [Session](https://github.com/randomwithnoname/security-advice/blob/main/avoid/session.md)
 - Telegram
 # Miscellaneous
 - [microG](https://github.com/randomwithnoname/security-advice/tree/main/avoid/microg.md)
 
-Do not send hate mail to any of the projects above. I want them to improve so more people have real privacy and security, but I am not going to recommend faulty products.
+*Do not send hate mail to any of the projects listed above. I want them to improve so more people have real privacy and security, but I am not going to recommend faulty products.*
 
 **[Software you should use if you care about privacy and security](https://github.com/randomwithnoname/security-advice/tree/main/use/use.md)**
