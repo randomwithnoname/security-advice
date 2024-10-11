@@ -9,7 +9,7 @@
 - [LineageOS](https://github.com/randomwithnoname/security-advice/blob/main/avoid/lineageos.md)
 # [Private messaging apps](https://github.com/randomwithnoname/security-advice/edit/main/avoid/avoid.md#private-messaging-apps)
 - [Carrier-based calls and texts](https://github.com/randomwithnoname/security-advice/blob/main/avoid/carrier-comms.md)
-- Element/Matrix
+- [Element (Matrix)](https://github.com/randomwithnoname/security-advice/blob/main/avoid/matrix.md)
 - [Session](https://github.com/randomwithnoname/security-advice/blob/main/avoid/session.md)
 - [Telegram](https://github.com/randomwithnoname/security-advice/blob/main/avoid/telegram.md)
 # Miscellaneous
