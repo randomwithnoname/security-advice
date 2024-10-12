@@ -6,7 +6,7 @@ Google Play Store
 [AppVerifier](https://github.com/soupslurpr/AppVerifier) + [Obtainium](https://github.com/ImranR98/Obtainium)
 # [Operating](https://grapheneos.org/) systems
 - GrapheneOS
-- [DivestOS](https://divestos.org/) (if you've already got a device it supports and habe no other option)
+- [DivestOS](https://divestos.org/) (if you've already got a device it supports and have no other option)
 - Stock Pixel OS or iPhone if you are going to buy a new phone and GrapheneOS isn't an option. Remove and opt out of privacy invasive services when you can.
 # Private messaging apps
 - [Signal](https://signal.org/)
