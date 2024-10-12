@@ -5,6 +5,6 @@ There are many better choices than Debian or Debian-based distributions for serv
 
 For someone who cares about security, an OS like Fedora Silverblue makes a lot more sense than Debian.
 
-Linux kernel itself needs to be replaced to make much more highly secure OSes. Having a massive monolithic kernel written in C is increasingly becoming the main weakness for us. Linux kernel has an inherently anti-security design of all the kernel code having full privileges.
+Linux kernel itself needs to be replaced to make much more highly secure OSes. Having a massive monolithic kernel written in C is a huge weakness. Linux kernel has an inherently anti-security design of all the kernel code having full privileges.
 
 People have the misconception that something being open source makes it private and secure. That ends up being extended to wrongly believing desktop Linux distributions have good privacy or security. Linux kernel is the practical choice due to compatibility. It's hard to change.
