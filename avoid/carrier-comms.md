@@ -1,4 +1,4 @@
-# [🔗](https://github.com/randomwithnoname/security-advice/tree/main/avoid/carrier-comms.md)
+[🔗](https://github.com/randomwithnoname/security-advice/tree/main/avoid/carrier-comms.md)
 
 Some people genuinely believe that a Nokia 3310 is a private and secure device because it has more limited functionality, no apps or web browser, etc. It's very important for privacy to use end-to-end encrypted calls and texts. Carrier-based calls and texts should be avoided since they're accessible to the carriers and others.
 
