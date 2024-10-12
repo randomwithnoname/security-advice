@@ -2,7 +2,7 @@
 I will add information like I did with the software I recommend avoiding soon
 # App Stores
 - [Accrescent](https://github.com/randomwithnoname/security-advice/blob/main/use/accrescent.md)
-- Google Play Store
+- Google Play Store ([see issues with Aurora Store](https://github.com/randomwithnoname/security-advice/tree/main/avoid/aurora-store.md))
 [AppVerifier](https://github.com/soupslurpr/AppVerifier) + [Obtainium](https://github.com/ImranR98/Obtainium)
 # [Operating](https://grapheneos.org/) systems
 - [GrapheneOS](https://grapheneos.org/)
