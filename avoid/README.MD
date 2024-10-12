@@ -2,6 +2,8 @@
 # [App Stores](https://github.com/randomwithnoname/security-advice/blob/main/avoid/avoid.md#app-stores)
 - [Aurora Store](https://github.com/randomwithnoname/security-advice/tree/main/avoid/aurora-store.md)
 - [F-Droid](https://github.com/randomwithnoname/security-advice/blob/main/avoid/f-droid.md)
+# Browsers
+
 # [Operating systems](https://github.com/randomwithnoname/security-advice/edit/main/avoid/avoid.md#operating-systems)
 - [Debian](https://github.com/randomwithnoname/security-advice/blob/main/avoid/debian.md)
 - [CalyxOS](https://github.com/randomwithnoname/security-advice/blob/main/avoid/calyxos.md)
