@@ -3,6 +3,6 @@ Some people genuinely believe that a Nokia 3310 is a private and secure device b
 
 There's built-in support for monitoring calls and texts as part of the standard telephony system. A traditional phone has no private/secure communication option since it can't use an app for end-to-end encryption. There's still the same cellular location privacy issue too.
 
-A phone with support for using [Signal](https://signal.org/#signal), [SimpleX](https://simplex.chat/), using Wi-Fi instead of only cellular, etc. is far better for privacy than a traditional cell phone. Traditional cell phones also have worse security against exploits. More functionality doesn't always mean less security.
+A phone with support for using [Signal](https://signal.org/#signal), [SimpleX](https://simplex.chat/), using Wi-Fi instead of only cellular, opting out of the network-based location service, etc is far better for privacy than a traditional cell phone. Traditional cell phones also have worse security against exploits. More functionality doesn't always mean less security.
 
 It's possible to make a more limited communication device with ONLY support for end-to-end encrypted calls and texts with no support for apps, insecure carrier-based calls and texts, etc. That can be done in a way that's more secure with a microkernel, etc. but it's not implied.
