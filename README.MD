@@ -1,4 +1,4 @@
-# [Software you should use if you care about privacy and security](https://github.com/randomwithnoname/security-advice/tree/main/use/use.md)
+# [Software you should use if you care about privacy and security](https://github.com/randomwithnoname/security-advice/tree/main/use/README.MD)
 I will add information like I did with the software I recommend avoiding soon
 # App Stores
 - [Accrescent](https://github.com/randomwithnoname/security-advice/blob/main/use/accrescent.md)
