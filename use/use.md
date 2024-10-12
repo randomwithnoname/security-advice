@@ -10,5 +10,5 @@ Google Play Store
 - Stock Pixel OS or iPhone if you are going to buy a new phone and GrapheneOS isn't an option. Remove and opt out of privacy invasive services when you can.
 # Private messaging apps
 - [Signal](https://signal.org/)
-- [Molly](https://github.com/mollyim/mollyim-android#download) (Android only Signal client)
+- [Molly](https://github.com/mollyim/mollyim-android#download) (Hardened Signal client for Android)
 - [SimpleX](https://simplex.chat/)
