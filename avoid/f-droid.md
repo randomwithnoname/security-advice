@@ -1,4 +1,4 @@
-[🔗(https://github.com/randomwithnoname/security-advice/tree/main/avoid/f-droid.md)
+[🔗](https://github.com/randomwithnoname/security-advice/tree/main/avoid/f-droid.md)
 
 F-Droid has extremely poor security practices and adds a single point of failure for compromising its users by building and signing the apps it distributes. It does not actually protect you from developers since they simply build what's published after antivirus scans.
 
