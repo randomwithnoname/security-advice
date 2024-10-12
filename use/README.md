@@ -8,8 +8,8 @@ I will add information like I did with the software I recommend avoiding soon.
 - [AppVerifier](https://github.com/randomwithnoname/security-advice/blob/main/use/appverifier.md) + [Obtainium](https://github.com/ImranR98/Obtainium)
 
 ## Operating Systems
-- [GrapheneOS](https://grapheneos.org/)
-- [DivestOS](https://divestos.org/) (if you already have a device it supports and have no other option)
+- [GrapheneOS]([https://grapheneos.org/](https://privsec.dev/posts/android/choosing-your-android-based-operating-system/#grapheneos))
+- [DivestOS]([https://divestos.org/](https://privsec.dev/posts/android/choosing-your-android-based-operating-system/#divestos)) (if you already have a device it supports and have no other option)
 - Stock Pixel OS or iPhone if you are going to buy a new phone and GrapheneOS isn't an option. Remove and opt out of privacy-invasive services when you can.
 
 ## Private Messaging Apps
