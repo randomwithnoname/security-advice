@@ -7,4 +7,4 @@ Aurora Store serves an important use case for the people using operating systems
 
 For most people, Aurora Store does not serve any legitimate purpose as it does not improve privacy in the way many people think it does. If you need apps that are only available on the Play Store, you should just use the official Play Store app and create an anonymous account just for installing apps if privacy is a concern.
 
-**Aurora Store is not a Google Play Store replacement and does not avoid Google in any meaningful way.**
+**Aurora Store is not a Google Play Store alternative and does not avoid Google in any meaningful way.**
