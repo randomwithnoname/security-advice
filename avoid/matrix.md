@@ -1,6 +1,6 @@
 [🔗](https://github.com/randomwithnoname/security-advice/blob/main/avoid/matrix.md)
 
-Element has [end-to-end encryption (E2EE)](https://en.wikipedia.org/wiki/End-to-end_encryption), but you can see how much metadata isn't actually encrypted by logging into a new session and not syncing over your keys. The message sender, time, and all other metadata, including emoji reactions to messages, aren't encrypted for E2EE Matrix rooms.
+Element has [end-to-end encryption (E2EE)](https://en.wikipedia.org/wiki/End-to-end_encryption), but you can see how much [metadata](https://en.wikipedia.org/wiki/Metadata) isn't actually encrypted by logging into a new session and not syncing over your keys. The message sender, time, and all other metadata, including emoji reactions to messages, aren't encrypted for E2EE Matrix rooms.
 
 Matrix ONLY encrypts the content field for the messages and attachments. Each server participating in a private E2EE room can see each member of the room, their power level, the permission setup, who sent each message, and when, as well as emoji reactions, etc.
 
