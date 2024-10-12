@@ -1,4 +1,4 @@
-# [microG](https://github.com/randomwithnoname/security-advice/tree/main/avoid/microg.md)
+[🔗](https://github.com/randomwithnoname/security-advice/tree/main/avoid/microg.md)
 
 microG runs closed-source Google Play code with a much weaker app sandbox and permission model compared to regular apps. Each app you install that depends on Google Play contains the Google Play SDK and libraries.
 
