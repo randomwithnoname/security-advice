@@ -1,4 +1,4 @@
-# [Debian](https://github.com/randomwithnoname/security-advice/tree/main/avoid/debian.md)
+[🔗](https://github.com/randomwithnoname/security-advice/tree/main/avoid/debian.md)
 
 Debian doesn't have a proper application privacy and security model, is largely written in memory-unsafe languages, and lacks modern exploit mitigations or any significant systemic privacy and security work.
 
