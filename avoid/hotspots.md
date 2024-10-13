@@ -9,4 +9,4 @@ Using a separate hotspot device WiFi allows your location to be tracked by more 
 
 You still have to trust that airplane mode works in your phone regardless, so how exactly does this achieve beyond trusting a provably less secure device, and how does it improve privacy? 
 
-$100 to someone who can tell me..
+$100 to someone who can [tell me](https://github.com/randomwithnoname/security-advice/issues)..
