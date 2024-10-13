@@ -1,4 +1,4 @@
-[🔗](./calyx-hotspots)
+[🔗](./calyx-hotspots.md)
 
 Unfortunately, many people now believe these devices improve privacy and security, largely thanks to a YouTube video with over 1.7 million views.
 ![hotspots](https://github.com/randomwithnoname/security-advice/blob/main/hardware/avoid/hotspots.jpg)
