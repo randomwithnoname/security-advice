@@ -1,4 +1,4 @@
-[🔗](https://github.com/randomwithnoname/security-advice/pulls)
+[🔗](https://github.com/randomwithnoname/security-advice/blob/main/use/simplex.md)
 
 [SimpleX](https://simplex.chat/) is a messaging app which has the same robust security guarantees as Signal but doesn't require a phone nunber or email address to sign up. 
 
