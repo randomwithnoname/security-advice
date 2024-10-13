@@ -1,4 +1,5 @@
 [🔗](https://github.com/randomwithnoname/security-advice/blob/main/use/molly.md)
+
 [Molly](https://github.com/mollyim/mollyim-android#download) is a [fork](https://en.m.wikipedia.org/wiki/Fork_(software_development)) of [Signal](https://signal.org/#signal) for Android which comes with various security and usability improvements.
 
 Aside from the features listed on [its README](https://github.com/mollyim/mollyim-android#features), it also lets you hide the calls tab which completely hides the navigation bar when stories are disabled. 
