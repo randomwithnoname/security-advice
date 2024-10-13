@@ -2,7 +2,7 @@
 
 Amateur security advice, but you should listen to me for some reason.
 
-- [Software You Should Avoid If You Care About Privacy or Security](https://github.com/randomwithnoname/security-advice/tree/main/avoid/README.MD)
+- [Software You Should Avoid If You Care About Privacy or Security](https://github.com/randomwithnoname/security-advice/tree/main/avoid/README.md)
 - [Software You Should Use If You Care About Privacy and Security](https://github.com/randomwithnoname/security-advice/tree/main/use/README.md)
 - [Hardware You Should Avoid If You Care About Privacy or Security](https://github.com/randomwithnoname/security-advice/blob/main/hardware/avoid/README.md)
 
