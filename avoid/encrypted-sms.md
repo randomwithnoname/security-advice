@@ -5,4 +5,7 @@ important security patches.
 
 Deku SMS is a newer, more actively maintained proof-of-concept app which does the same thing as Silence, but I cannot recommend it.
 
-I currently recommend using [Signal](https://signal.org/) and [SimpleX](https://simplex.chat/).
+There are also some other services which claim to offer encrypted/secure SMS. Magic doesn't exist. Both people neeed to be using the same or a compatible app to use [end-to-end encryption.
+](https://www.cloudflare.com/learning/privacy/what-is-end-to-end-encryption/)
+
+I currently [recommend](https://github.com/randomwithnoname/security-advice/blob/main/use/README.md#private-messaging-apps) using [Signal](https://signal.org/) and [SimpleX](https://simplex.chat/).
