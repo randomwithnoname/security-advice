@@ -10,4 +10,4 @@ Telegram has heavily participated in misinformation campaigns targeting actual p
 
 A major example of how Telegram's opt-in secret chat encryption has gone seriously wrong before can be found [here](https://words.filippo.io/dispatches/telegram-ecdh/).
 
-Apps like [Signal](https://signal.org/) and [SimpleX](https://simplex.chat/) can't access messages, media, and profiles. Telegram has access to all content in private group chats and regular private messages unless users opt for a secret chat. They can automatically scan, moderate, and provide data to authorities based on this content.
+Apps like [Signal](https://github.com/randomwithnoname/security-advice/tree/main/use/signal.md) and [SimpleX](https://simplex.chat/) can't access messages, media, and profiles. Telegram has access to all content in private group chats and regular private messages unless users opt for a secret chat. They can automatically scan, moderate, and provide data to authorities based on this content.
