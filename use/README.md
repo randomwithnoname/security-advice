@@ -9,7 +9,7 @@ I will add information like I did with the software I recommend avoiding soon.
 
 ## Operating Systems
 - [GrapheneOS](https://privsec.dev/posts/android/choosing-your-android-based-operating-system/#grapheneos)
-- If GrapheneOS isn't an option, [DivestOS](https://privsec.dev/posts/android/choosing-your-android-based-operating-system/#divestos) is a great choice if you've already got a device it supports and have no other option.
+- [DivestOS](https://privsec.dev/posts/android/choosing-your-android-based-operating-system/#divestos) is a great choice if you've already got a device it supports and have no other option.
 - iOS or the stock Google Pixel OS are the only operating systems you shoild buy new devices for if [GrapheneOS isn't an option](https://privsec.dev/posts/android/banking-applications-compatibility-with-grapheneos/#important). Remove and opt out of privacy-invasive services when you can.
 
 ## Private Messaging Apps
