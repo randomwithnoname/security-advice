@@ -1,6 +1,6 @@
 # [Hardware You Should Avoid If You Care About Privacy or Security](./README.md)
 # Hotspots
-- [Calyx Institute Mobile Internet](https://github.com/randomwithnoname/security-advice/blob/main/hardware/avoid/hotspots.md)
+- [Calyx Institute Mobile Internet](./calyx-hotspots.md)
 # Phones
 - [Librem 5](./librem-5.md)
 
