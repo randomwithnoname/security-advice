@@ -8,4 +8,11 @@ It's far better to use the official releases of the apps from developers obtaine
 
 You can have privacy and security patches for apps indefinitely delayed until F-Droid sorts out getting their builds for the app working again. There can, and often are, major disagreements with the app developer, resulting in users not receiving updates anymore.
 
-There are other options available. Look into [AppVerifier](https://github.com/randomwithnoname/security-advice/tree/main/use/appverifier.md), [Obtainium](https://github.com/ImranR98/Obtainium/blob/main/README.md), and [Accrescent](https://github.com/randomwithnoname/security-advice/blob/main/use/accrescent.md). F-Droid is not a good fit for people who care about privacy and security. Open source does not make things magically private and secure. Their approach and ideology conflict with those principles.
+F-Droid still has problems with their repository system across both the official and unofficial clients. It would be a much better option for apps support self-updating The request install permission allows unattended self-updates for modern apps when using the modern API. 
+
+It's straightforward to include a persistent JobScheduler job for automatic updates which downloads the new APK(s) and installs them as updates. Can rely on the standard Android signing key pinning and signature verification. S
+They simply need to verify it's an update, not a new APK.
+
+People can verify initial downloads via the [AppVerifier](https://github.com/randomwithnoname/security-advice/tree/main/use/appverifier.md) app. AppVerifier is published in [Accrescent](https://github.com/randomwithnoname/security-advice/blob/main/use/accrescent.md)., which is an app store distributing official developer builds in a secure way. Accrescent can simply provide filters for open source, reproducible, etc. for people who want it.
+
+[Obtainium](https://github.com/randomwithnoname/security-advice/blob/main/use/obtainium.md) is already a much better option than F-Droid, and has built-in support for AppVerifier. F-Droid is not a good fit for people who care about privacy and security. Open source does not make things magically private and secure. Their approach and ideology conflict with those principles.
