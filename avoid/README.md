@@ -25,4 +25,4 @@
 
 # *Do not send hate mail to any of the projects listed above. I want them to improve so more people can achieve real privacy and security, but I am not going to recommend faulty products.*
 # Related
-- [Software You Should Use If You Care About Privacy and Security](https://github.com/randomwithnoname/security-advice/tree/main/use/use.md)
+- [Software You Should Use If You Care About Privacy and Security](https://github.com/randomwithnoname/security-advice/tree/main/use/README.md)
