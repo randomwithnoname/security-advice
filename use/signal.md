@@ -1,4 +1,5 @@
 [🔗](https://github.com/randomwithnoname/security-advice/tree/main/use/signal.md)
+
 [Signal](https://signal.org/) is a messaging app that has comparable usability to mainstream options such as Facebook Messenger, WhatsApp, iMessage.
 Unlike those apps, it takes user privacy more seriously by doing things such as encrypting profiles (name, profile licture).
 
