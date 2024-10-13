@@ -9,3 +9,5 @@ Refer to [this issue](https://github.com/matrix-org/matrix-spec/issues/660) rega
 Matrix stores the events and messages on each server and syncs them between servers. Each server uses a state resolution algorithm to determine the state of the room based on the events they can see. This can lead to inconsistent states across servers and bugs that may result in bricking.
 
 The decentralized state resolution system creates many of the metadata privacy issues. Servers need to see the entire history of state events to resolve the state of the room.
+
+[SimpleX](https://simplex.chat/) doesn't have any of these issues, and is surprisingly more usable than Matrix unless you have lots of connections (are in many large groups). The only downsides is there isn't proper support for using multiple devices. You can use the desktop app from a mobile device via [LAN](https://en.m.wikipedia.org/wiki/Local_area_network) but you'll need to reconnect it each time and the mobile device can't be used at the same time as a linked desktop device.
