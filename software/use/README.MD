@@ -3,7 +3,7 @@
 I will add information like I did with the software I recommend avoiding soon.
 
 ## App Stores
-- [Accrescent](./software/use/accrescent.md)
+- [Accrescent](./accrescent.md)
 - Google Play Store ([see issues with Aurora Store](https://github.com/randomwithnoname/security-advice/tree/main/avoid/aurora-store.md))
 - [AppVerifier](https://github.com/randomwithnoname/security-advice/blob/main/use/appverifier.md) + [Obtainium](https://github.com/ImranR98/Obtainium)
 
