@@ -13,7 +13,9 @@ Molly has 3 variants. Molly, Molly-FOSS, Molly-UP. Molly and Molly-FOSS share th
 [Here is this official comparison of dependencies (functionality)
 ](https://github.com/mollyim/mollyim-android#dependency-comparison).
 
-[Molly-UP is merging with Molly soon](https://github.com/mollyim/mollyim-android/pull/368), and they plan to deprecate Molly-UP, so I wouldn't recommend installing it at this point, unless you're going to setup Molly-UP as a linked device until its deprecated, as account registrations [cost Signal a lot of money.
+Molly-UP supports UnifiedPush, which can act as an open-source replacement to Google's Firebase Cloud Messaging (FCM) for apps that suppprt it. Unfortunately, Signal doesn't support UnifiedPush, so Molly had to make a workaround (MollySocket) which involves a server that acts as a linked device without any encryption keys. It's not difficult to setup a MollySocket server, but it's also not a one click process. There are publicly available MollySocket servers, but you're relying on them to provide a reliable service. [adminForge offers a MollySocket server](https://adminforge.de/services/mollysocket/), and they have a good track record for uptime and reliability.
+
+[Molly-UP is merging with Molly soon](https://github.com/mollyim/mollyim-android/pull/368), and they plan to deprecate Molly-UP, so I wouldn't recommend installing it at this point unless you're going to setup Molly-UP as a linked device until its deprecated, as account registrations [cost Signal a lot of money over time.
 ](https://signal.org/blog/signal-is-expensive/)
 
 I recommend [obtaining Molly via Accrescent](https://accrescent.app/app/im.molly.app).
