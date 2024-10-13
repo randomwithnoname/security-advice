@@ -8,4 +8,4 @@ Deku SMS is a newer, more actively maintained proof-of-concept app which does th
 There are also some other services which claim to provide encrypted/secure SMS. Magic doesn't exist. Both people need to be using the same or a compatible app to use [end-to-end encryption.
 ](https://en.m.wikipedia.org/wiki/End-to-end_encryption) That also applies to Deku and Silence.
 
-I currently [recommend](https://github.com/randomwithnoname/security-advice/blob/main/use/README.md#private-messaging-apps) using [Signal](https://signal.org/)/[Molly](https://github.com/randomwithnoname/security-advice/blob/main/use/molly.md) and [SimpleX](https://simplex.chat/).
+I currently [recommend](https://github.com/randomwithnoname/security-advice/blob/main/use/README.md#private-messaging-apps) using [Signal](https://github.com/randomwithnoname/security-advice/tree/main/use/signal.md)/[Molly](https://github.com/randomwithnoname/security-advice/blob/main/use/molly.md) and [SimpleX](https://simplex.chat/).
