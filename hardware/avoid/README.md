@@ -1,4 +1,4 @@
-# [Hardware You Should Avoid If You Care About Privacy or Security](https://github.com/randomwithnoname/security-advice/tree/main/hardware/README.md)
+# [Hardware You Should Avoid If You Care About Privacy or Security](./README.md)
 # Hotspots
 - [Calyx Institute Mobile Internet](https://github.com/randomwithnoname/security-advice/blob/main/hardware/avoid/hotspots.md)
 # Phones
