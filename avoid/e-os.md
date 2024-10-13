@@ -1,6 +1,6 @@
 [🔗](https://github.com/randomwithnoname/security-advice/tree/main/avoid/e-os.md)
 
-/e/OS is by far the least secure of the mainstream alternative OS options. It's a fork of LineageOS, which already significantly rolls back security, but they make things much worse. No one who cares at all about basic privacy and security should use /e/OS; an iPhone is far better.
+/e/OS is by far the least secure of the mainstream alternative OS options. It's a fork of [LineageOS](https://github.com/randomwithnoname/security-advice/blob/main/avoid/lineageos.md), which already significantly rolls back security, but they make things much worse. No one who cares at all about basic privacy and security should use /e/OS; an iPhone is far better.
 
 It has [privacy-invasive default connections](https://eylenburg.github.io/android_comparison.htm), and they're also including their own non-[end-to-end encrypted](https://en.wikipedia.org/wiki/End-to-end_encryption) privacy-invasive cloud services.
 
