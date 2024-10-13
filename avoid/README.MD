@@ -16,6 +16,7 @@
 ## [Private Messaging Apps](https://github.com/randomwithnoname/security-advice/edit/main/avoid/avoid.md#private-messaging-apps)
 - [Carrier-Based Calls and Texts](https://github.com/randomwithnoname/security-advice/blob/main/avoid/carrier-comms.md)
 - [Element (Matrix)](https://github.com/randomwithnoname/security-advice/blob/main/avoid/matrix.md)
+- [Encrypted SMS (Deku, Silence, etc)](https://github.com/randomwithnoname/security-advice/blob/main/avoid/encrypted-sms.md)
 - [Session](https://github.com/randomwithnoname/security-advice/blob/main/avoid/session.md)
 - [Telegram](https://github.com/randomwithnoname/security-advice/blob/main/avoid/telegram.md)
 
