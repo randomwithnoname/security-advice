@@ -15,4 +15,4 @@ I will add information like I did with the software I recommend avoiding soon.
 ## Private Messaging Apps
 - [Signal](https://github.com/randomwithnoname/security-advice/tree/main/use/signal.md)
 - [Molly](https://github.com/randomwithnoname/security-advice/blob/main/use/molly.md) (improved Signal client for Android)
-- [SimpleX](https://simplex.chat/)
+- [SimpleX](https://github.com/randomwithnoname/security-advice/blob/main/use/simplex.md)
