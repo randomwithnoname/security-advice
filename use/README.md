@@ -13,6 +13,6 @@ I will add information like I did with the software I recommend avoiding soon.
 - iOS or the stock Google Pixel OS are the only operating systems you should buy new devices for if [GrapheneOS isn't an option](https://privsec.dev/posts/android/banking-applications-compatibility-with-grapheneos/#important). Remove and opt out of privacy-invasive services when you can.
 
 ## Private Messaging Apps
-- [Signal](https://signal.org/)
-- [Molly](https://github.com/randomwithnoname/security-advice/blob/main/use/molly.md) (Hardened Signal client for Android)
+- [Signal](https://github.com/randomwithnoname/security-advice/tree/main/use/signal.md)
+- [Molly](https://github.com/randomwithnoname/security-advice/blob/main/use/molly.md) (improved Signal client for Android)
 - [SimpleX](https://simplex.chat/)
