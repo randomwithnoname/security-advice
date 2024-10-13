@@ -14,5 +14,5 @@ I will add information like I did with the software I recommend avoiding soon.
 
 ## Private Messaging Apps
 - [Signal](https://signal.org/)
-- [Molly](https://github.com/mollyim/mollyim-android#download) (Hardened Signal client for Android)
+- [Molly](https://github.com/randomwithnoname/security-advice/blob/main/use/molly.md) (Hardened Signal client for Android)
 - [SimpleX](https://simplex.chat/)
