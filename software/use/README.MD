@@ -5,8 +5,7 @@ I will add information like I did with the software I recommend avoiding soon.
 ## App Stores
 - [Accrescent](./accrescent.md)
 - Google Play Store ([see issues with Aurora Store](./aurora-store.md))
-- [AppVerifier](./appverifier.md) + [Obtainium](./obtainium
-md)
+- [AppVerifier](./appverifier.md) + [Obtainium](./obtainium.md)
 
 ## Operating Systems
 - [GrapheneOS](https://privsec.dev/posts/android/choosing-your-android-based-operating-system/#grapheneos)
