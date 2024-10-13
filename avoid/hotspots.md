@@ -6,6 +6,6 @@ It's better to use a second Pixel (NOT running a [less secure OS](https://github
 
 Using a separate hotspot device WiFi allows your location to be tracked by more parties via MAC address or SSID, while not solving the original problem.
 
-You still have to trust that airplane mode works in your phone regardless, so how exactly does this achieve beyond trusting a provably less secure device, and how does it improve privacy? 
+You still have to trust that airplane mode works in your phone regardless, so what exactly does this achieve beyond trusting a provably less secure device, and how does it improve privacy? 
 
 $100 to someone who can [tell me](https://github.com/randomwithnoname/security-advice/issues)..
