@@ -24,5 +24,5 @@
 - [microG](https://github.com/randomwithnoname/security-advice/tree/main/avoid/microg.md)
 
 # *Do not send hate mail to any of the projects listed above. I want them to improve so more people can achieve real privacy and security, but I am not going to recommend faulty products.*
-
-**[Software You Should Use If You Care About Privacy and Security](https://github.com/randomwithnoname/security-advice/tree/main/use/use.md)**
+# Related
+- [Software You Should Use If You Care About Privacy and Security](https://github.com/randomwithnoname/security-advice/tree/main/use/use.md)**
