@@ -1,4 +1,5 @@
 [🔗](./librem-5.md)
+
 The Librem 5 is a highly insecure device without basic firmware security updates and hardware/software security features. It rolls back privacy and security by a decade. 
 
 The hardware kill switches don't serve much purpose in general, but especially in the way the [Librem 5 implemented them](https://madaidans-insecurities.github.io/linux-phones.html#hardware-kill-switches).
