@@ -1,6 +1,6 @@
 [🔗](https://github.com/randomwithnoname/security-advice/tree/main/use/signal.md)
 
-[Signal](https://signal.org/) is a messaging app that has comparable usability to mainstream options such as Facebook Messenger, WhatsApp, iMessage.
+[Signal](https://signal.org/) is an Internet messaging and voice/video calling app that has comparable usability to mainstream options such as Facebook Messenger, WhatsApp, iMessage.
 Unlike those apps, it takes user privacy more seriously by doing things such as encrypting profiles (name, profile picture), not sabotaging users by offering and encouraging the use of [plaintext](https://en.m.wikipedia.org/wiki/Plaintext) backups.
 
 I recommend [Molly](https://github.com/randomwithnoname/security-advice/blob/main/use/molly.md) for Android users.
