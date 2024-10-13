@@ -11,4 +11,4 @@ Molly has 3 variants. Molly, Molly-FOSS, Molly-UP. Molly and Molly-FOSS share th
 [Here is this official comparison of dependencies (functionality).
 ](https://github.com/mollyim/mollyim-android#dependency-comparison)
 
-Molly-UP is [merging with Molly soon](https://github.com/mollyim/mollyim-android/pull/368), which is why I've not linked to this article anywhere else yet.
+Molly-UP is [merging with Molly soon](https://github.com/mollyim/mollyim-android/pull/368)
