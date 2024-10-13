@@ -9,8 +9,8 @@ I will add information like I did with the software I recommend avoiding soon.
 
 ## Operating Systems
 - [GrapheneOS](https://privsec.dev/posts/android/choosing-your-android-based-operating-system/#grapheneos)
-- [DivestOS](https://privsec.dev/posts/android/choosing-your-android-based-operating-system/#divestos) (if you already have a device it supports and have no other option)
-- Stock Pixel OS or iPhone if you are going to buy a new phone and GrapheneOS isn't an option. Remove and opt out of privacy-invasive services when you can.
+- [DivestOS](https://privsec.dev/posts/android/choosing-your-android-based-operating-system/#divestos)
+- iOS or the stock Google Pixel OS if [GrapheneOS isn't an option](https://privsec.dev/posts/android/banking-applications-compatibility-with-grapheneos/#important). Remove and opt out of privacy-invasive services when you can.
 
 ## Private Messaging Apps
 - [Signal](https://signal.org/)
