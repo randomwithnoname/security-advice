@@ -4,4 +4,4 @@
 
 There's [a website that contains crowdsourced app configurations for Obtainium](https://apps.obtainium.imranr.dev/) which makes it easier to use.
 
-Obtainium also integrates with [AppVerifier](https://github.com/randomwithnoname/security-advice/tree/main/use/appverifier.md).
+Obtainium will automatically open the share menu to share a newly installed app with [AppVerifier](https://github.com/randomwithnoname/security-advice/tree/main/use/appverifier.md) if you have it installed and haven't disabled that feature in Obtainium.
