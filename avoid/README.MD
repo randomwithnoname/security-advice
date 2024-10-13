@@ -1,4 +1,4 @@
-# [Software You Should Avoid If You Care About Privacy or Security](https://github.com/randomwithnoname/security-advice/tree/main/avoid/avoid.md)
+# [Software You Should Avoid If You Care About Privacy or Security](https://github.com/randomwithnoname/security-advice/tree/main/avoid/README.md)
 
 ## [App Stores](https://github.com/randomwithnoname/security-advice/blob/main/avoid/avoid.md#app-stores)
 - [Aurora Store](https://github.com/randomwithnoname/security-advice/tree/main/avoid/aurora-store.md)
