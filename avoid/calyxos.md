@@ -10,6 +10,8 @@ They have what they call a firewall app, which is simply the leaky [LineageOS](h
 
 The VPN tethering feature from LineageOS is incredibly leaky and is worse for privacy than a per-device tunnel. Android has per-profile VPN support as one of the major reasons for profiles to exist. They put effort into undoing that and pushing users to use a less private approach.
 
+The Calyx Institute also gives away as a perk of being a member of their "charity" (sells) [insecure mobile hotspot devices](https://github.com/randomwithnoname/security-advice/tree/main/avoid/hotspots.md) to be used with resold T-Mobile service, and they're supposedly trying to improve user privacy and security...
+
 USB port control from LineageOS is based on the standard Android USB device admin toggle. They present it as disabling data, but it doesn't actually do that. It only disables high-level USB functionality, and they weakened it further in LineageOS/CalyxOS with a major change.
 
 This kind of approach is endemic to both LineageOS and CalyxOS, which share many of the same developers. They add a lot of attack surface and a few mostly incorrectly implemented privacy and security features. AOSP is a more private and secure OS without these changes.
