@@ -10,8 +10,7 @@ You can have privacy and security patches for apps indefinitely delayed until F-
 
 F-Droid still has problems with their repository system across both the official and unofficial clients. It would be a much better option for apps support self-updating The request install permission allows unattended self-updates for modern apps when using the modern API. 
 
-It's straightforward to include a persistent JobScheduler job for automatic updates which downloads the new APK(s) and installs them as updates. Can rely on the standard Android signing key pinning and signature verification. S
-They simply need to verify it's an update, not a new APK.
+It's straightforward to include a persistent JobScheduler job for automatic updates which downloads the new APK(s) and installs them as updates. Apps can rely on the standard Android signing key pinning and signature verification. They simply need to verify it's an update, not a new APK.
 
 People can verify initial downloads via the [AppVerifier](https://github.com/randomwithnoname/security-advice/tree/main/use/appverifier.md) app. AppVerifier is published in [Accrescent](https://github.com/randomwithnoname/security-advice/blob/main/use/accrescent.md)., which is an app store distributing official developer builds in a secure way. Accrescent can simply provide filters for open source, reproducible, etc. for people who want it.
 
