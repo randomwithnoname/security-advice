@@ -13,6 +13,6 @@ Molly has 3 variants. Molly, Molly-FOSS, Molly-UP. Molly and Molly-FOSS share th
 [Here is this official comparison of dependencies (functionality)
 ](https://github.com/mollyim/mollyim-android#dependency-comparison).
 
-Molly-UP is [merging with Molly soon](https://github.com/mollyim/mollyim-android/pull/368), and they plan to deprecate Molly-UP, so I wouldn't recommend installing it at this point, unless you're going to setup Molly-UP as a linked device until its deprecated, as account registrations [cost Signal a lot of money.
+[Molly-UP is merging with Molly soon](https://github.com/mollyim/mollyim-android/pull/368), and they plan to deprecate Molly-UP, so I wouldn't recommend installing it at this point, unless you're going to setup Molly-UP as a linked device until its deprecated, as account registrations [cost Signal a lot of money.
 ](https://signal.org/blog/signal-is-expensive/)
 I recommend [obtaining Molly via Accrescent](https://accrescent.app/app/im.molly.app).
