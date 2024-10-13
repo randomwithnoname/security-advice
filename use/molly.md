@@ -10,7 +10,9 @@ Molly connects to Signal's production servers, so you can seamlessly chat with c
 
 Molly has 3 variants. Molly, Molly-FOSS, Molly-UP. Molly and Molly-FOSS share the same package name, so they cannot be installed together. For example, if you installed Molly then installed Molly-FOSS, Molly-FOSS would simply be installed as an update to Molly and you would keep your user data. Molly-UP can be installed alongside Molly/Molly-FOSS.
 
-[Here is this official comparison of dependencies (functionality).
-](https://github.com/mollyim/mollyim-android#dependency-comparison)
+[Here is this official comparison of dependencies (functionality)
+](https://github.com/mollyim/mollyim-android#dependency-comparison).
 
-Molly-UP is [merging with Molly soon](https://github.com/mollyim/mollyim-android/pull/368)
+Molly-UP is [merging with Molly soon](https://github.com/mollyim/mollyim-android/pull/368).
+
+I recommend [obtaining Molly via Accrescent](https://accrescent.app/app/im.molly.app).
