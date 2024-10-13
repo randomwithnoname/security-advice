@@ -1,4 +1,4 @@
-Buy these hotspots if you want to improve your privacy/security!
+Unfortunately, many people now believe these devices improve privacy and security, largely thanks to a YouTube video with over 1.7 million views.
 ![hotspots](https://github.com/randomwithnoname/security-advice/blob/main/avoid/hotspots.jpg)
 That's what a certain "charity" wants you to believe.
 Their hotspot devices (the ones in the image above) have very poor security and are far worse than simply using the isolated and better hardened cellular radio in a phone.
