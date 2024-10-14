@@ -1,4 +1,4 @@
-[🔗](./librem-5.md)
+[🔗](./linux-phones.md)
 
 Linux Phones, like the PinePhone and Librem 5 are particularly insecure devices which are far worse than even mainstream Android devices at protecting against exploits or invasive apps. They lack basic updates and hardware/software security features. They roll back privacy and security by a decade. 
 
