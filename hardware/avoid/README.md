@@ -3,6 +3,7 @@
 - [Calyx Institute Mobile Internet](./calyx-hotspots.md)
 # Phones
 - [Librem 5](./librem-5.md)
+- [Traditional Phones (Nokia 3310, etc)](https://github.com/randomwithnoname/security-advice/blob/main/hardware/avoid/traditional-phones.md)
 
 # *Do not send hate mail to any of the projects listed above. I want them to improve so more people can achieve real privacy and security, but I am not going to recommend faulty products.*
 # Related
