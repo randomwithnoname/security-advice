@@ -13,10 +13,6 @@ Privacy/secutity and usability are both very important. In general, if you care 
 ##### Privacy/security features
 Molly already [lists](https://github.com/mollyim/mollyim-android#features) the features it adds vs. Signal, so I won't repeat those. It does miss some things though.
 - Molly removed support for the [Signal TLS proxy](https://signal.org/blog/help-iran-reconnect/) due to privacy or security issues, so instead added support for a SOCKS5 proxy or Tor via Orbot. I'm not sure exactly what the problem was, but [Tommy Tran](https://tommytran.io/about/) has found [issues](https://privsec.dev/posts/proxies/update-your-signal-tls-proxy/) with the Signal TLS Proxy. The main issue was resolved however. I doubt this was the reason Molly decided to remove it.
-
-- Molly used to have its own feature for deleting contacts. Signal added their own implementation of that feature and Molly has since removed theirs.
-
-- Call history will be removed along with disappearing messages in Molly, unlike Signal.
 ##### Other Features
 - Molly has an option to hide the calls tab, which will completely hide the navigation bar if stories are disabled.
 
