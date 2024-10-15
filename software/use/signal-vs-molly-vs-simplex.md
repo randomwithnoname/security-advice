@@ -27,7 +27,7 @@ Anyone who can recieve calls/texts to the phone number you registered with can p
 This discussion doesn't come up in the security comminity, since there isn't a better option.. until recently.
 
 **Meet SimpleX**
-# Privacy/security features
+##### Privacy/security features
 - Email addresses or phone numbers aren't used for account creation and therefore can't be used to discover contacts. You need to share an invite link which can be presented in the form of a QR code.
 ##### Other features
 SimpleX is a messaging app that *doesn't* downgrade security vs. Signal. 
