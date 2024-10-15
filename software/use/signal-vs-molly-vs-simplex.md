@@ -11,30 +11,14 @@ I will be comparing technical features that increase privacy/security as well as
 Privacy/secutity and usability are both very important. In general, if you care about privacy and security, you want to be using the provably most secure technology available, but if said technology is missing features you find useful, then you'll be less likely to use it. This is particularly important when it comes to a communications platform, as it's not only your needs that matter. If you get someone to use a "private and secure" communications app and they have a bad experience, they are unlikely to try a different one in the future, so keep that in mind when choosing.
 # Signal vs. Molly
 ##### Privacy/security features
-
-Molly already [lists](https://github.com/mollyim/mollyim-android#features) the features it adds vs. Signal, so I won't repeat that. It does miss some things though.
+Molly already [lists](https://github.com/mollyim/mollyim-android#features) the features it adds vs. Signal, so I won't repeat those. It does miss some things though.
 - Molly removed support for the [Signal TLS proxy](https://signal.org/blog/help-iran-reconnect/) due to privacy or security issues, so instead added support for a SOCKS5 proxy or Tor via Orbot. I'm not sure exactly what the problem was, but [Tommy Tran](https://tommytran.io/about/) has found [issues](https://privsec.dev/posts/proxies/update-your-signal-tls-proxy/) with the Signal TLS Proxy. The main issue was resolved however. I doubt this was the reason Molly decided to remove it.
 
-
-- Back in 2018, Signal allowed the user to set a passphrase to secure the local message database. But this option was removed with the introduction of file-based encryption on Android. Molly brings it back again with [additional security features](https://github.com/mollyim/mollyim-android/wiki/Data-Encryption-At-Rest).
-
-- Molly securely shreds sensitive data from RAM. It needs to be clarified what this does, but I assume this is so that keys for database encryption are cleared from memory when the database is locked so forensics can't recover them.
-
-- If database encryption is enabled, you can set a device lock timeout so the database will automatically. The timer can be anywhere from 0 secomds to 99 hours, 99 minutes, 99 seconds...
-
-- Molly allows you to block unknown contacts, which will block messages and calls from unknown senders for security and anti-spam. This feature is a less compelling reason to use Molly over Signal useful since the instruction of usernames, but if an adversary that knows your Signal username is a threat, then you may find it useful.
-
-- Android logs can be disabled, which can potentially prove privacy against future device access, depending on your setup.
-
-- Molly used to have its own feature for deleting contacts, but Signal has since added their own implementation of this feature and Molly has removed theirs.
+- Molly used to have its own feature for deletint contacts. Signal added their own implementation of that feature and Molly has since removed theirs.
 
 - Call history will be removed along with disappearing messages in Molly, unlike Signal.
 ##### Other Features
-- Signal supports using miltiple devices with the same account, but the only mobile devices it supports linking are iPads. Molly can be setup as a linked device rather than a primary device. It can also be used on Android tablets.
-
 - Molly has an option to hide the calls tab, which will completely hide the navigation bar if stories are disabled.
-
-- Molly allows you to schedule backups between a daily or weekly interval and the number of backups to retain.
 
 
 
