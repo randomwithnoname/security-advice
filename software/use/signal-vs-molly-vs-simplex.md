@@ -49,4 +49,20 @@ This discussion doesn't come up in the security comminity, since there isn't a b
 **Meet SimpleX**
 SimpleX is a messaging app that *doesn't* downgrade security vs. Signal. 
 # SimpleX vs. Molly
-SimpleX allows you to set a manual database passphrase rather than relying on Keystore on Android or Keychain or iOS. On desktop, it prompts you to set a manual passphrase during the setup, but you can optionally use a random passphrase which is stored in a text file. Molly has a list of commonly used passwords and will block you from using them and any other weak passwords. Molly also has an option to automatically lock the database if you've not unlocked it for a certain amount of time. SimpleX has that option for it's SimpleX Lock feature, which lets you lock the app with your device unlock method (PIN, biometrics, etc) or a separate PIN. That is not encrypting the database, and it has no rate limit so any determined non-technical attacker can bypass it.
+- SimpleX allows you to set a manual database passphrase rather than relying on Keystore on Android or Keychain or iOS. On desktop, it prompts you to set a manual passphrase during the setup, but you can optionally use a random passphrase which is stored in a text file. Molly has a list of commonly used passwords and will block you from using them and any other weak passwords. Molly also has an option to automatically lock the database if you've not unlocked it for a certain amount of time. SimpleX has that option for it's SimpleX Lock feature, which lets you lock the app with your device unlock method (PIN, biometrics, etc) or a separate PIN. That is not encrypting the database, and it has no rate limit so any determined non-technical attacker can bypass it.
+
+- Ram shredding nedds to be clarified. There is an [open issue](https://github.com/simplex-chat/simplex-chat/issues/4407) about it.
+
+- SimpleX has limited multi-device support in the first place. Profiles on the mobile app can be used from a desktop on the same LAN, but not at the same time.
+
+- Block unknown contacts is not applicable at all in SimpleX. Only people you choose to connect with by sharing an invite link can contact you. Invite links can be deleted and you won't lose any contacts/groups you've already connected to.
+
+- Call history is purged with disappearing messages in SimpleX.
+
+- There is no option to disable debug logs in SimpleX. It needs to be clarified.
+
+- There is no option to schedule backups in SimpleX. It needs to be done manually.
+
+- SimpleX has built-in support for using a SOCKS proxy, including Tor provided by another app like Orbot or InviZible Pro.
+
+- SimpleX does not support UnifiedPush. Work is being put into improving the current system instead as UnifiedPush would only have a benefit if you have multiple apps using the same channel. [UnifiedPush adoption is extremly low](https://unifiedpush.org/users/apps/).
