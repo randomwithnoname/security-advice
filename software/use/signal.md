@@ -7,6 +7,10 @@ I recommend [Molly](./molly.md) for Android users.
 
 
 
-Signal allows you to discover contacts via phone number that are also using Signal. You can also choose to share a username or invite link/QR code and completely hide your phone number from contacts. Unfortunately, its still required for registration. There are many ways to obtain a phone number anonymously so it's not a major issue. Ideally, they would just let users pay a fee to avoid using a phone number for registration.
+Signal allows you to discover contacts via phone number that are also using Signal. You can also choose to share a username or invite link/QR code and completely hide your phone number from contacts. Unfortunately, its still required for registration. Remember that you are not limited to use only your main phone number - you can use any number on which you can receive SMS or phone calls at registration, including landlines.
+
+You should make sure you use a number which you will retain access to as anyone who can recieve calls/texts to the phone number you registered with can permanently lock you out of your Signal account and impersonate you for contacts that discovered your profile via phone number, assuming they don't verify safety numbers via a different channel (ideally not based on phone numbers) and react to change.
+
+If you lose access to ypur phone number and someone hasn't yet registered a new Signal account with it, you can switch to another phone number without needing to verify you still own the old one.
 
 Most [other options are subpar](/avoid/README.md#private-messaging-apps). They either downgrade privacy and security compared to Signal, and/or are not usable for other reasons such as not having an iOS app and/or requiring both users to be online to communicate. There is one Signal alternative which seems promising that [I recommend](./simplex.md).
