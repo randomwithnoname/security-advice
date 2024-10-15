@@ -1,3 +1,5 @@
+I'm in the process of moving stuff to new directories. find stuff missing here: https://github.com/randomwithnoname/security-advice/tree/main/avoid
+
 # [Software You Should Avoid If You Care About Privacy or Security](./README.md)
 
 ## App Stores
