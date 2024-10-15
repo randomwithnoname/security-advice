@@ -2,6 +2,8 @@
 
 [Molly](https://github.com/mollyim/mollyim-android#download) is a [fork](https://en.m.wikipedia.org/wiki/Fork_(software_development)) of [Signal](./signal.md) for Android which comes with various security and usability improvements.
 
+Molly is updated every two weeks to include the latest features and bug fixes from Signal. The exceptions are security issues, which are patched as soon as fixes become available.
+
 Aside from the features listed on [its README](https://github.com/mollyim/mollyim-android#features), it also lets you hide the calls tab which completely hides the navigation bar when stories are disabled. 
 
 Molly can also be installed alongside Signal, which means you can use 2 Signal accounts without needing to use an Android Work Profile or Private Space. However, you cannot register your account on both apps at the same time. Molly as a linked device though, so it can be used while the primary device (app) is offline. Only the primary app registered will remain active, and the other will go offline. 
