@@ -10,7 +10,7 @@ I will be comparing technical features that increase privacy/security as well as
 
 Privacy/security and usability are both very important. In general, if you care about privacy and security, you want to be using the provably most secure technology available, but if said technology is missing features you find useful, then you'll be less likely to use it. This is particularly important when it comes to a communications platform, as it's not only your needs that matter. If you get someone to use a "private and secure" communications app and they have a bad experience, they are unlikely to try a different one in the future, so keep that in mind when choosing.
 # Signal vs. Molly
-Molly already lists the features it adds vs. Signal, so I won't repeat those. It does miss some things though.
+Molly already [lists](https://github.com/mollyim/mollyim-android#features) the features it adds vs. Signal, so I won't repeat those. It does miss some things though.
 ##### Privacy/security features
 - Molly removed support for the [Signal TLS proxy](https://signal.org/blog/help-iran-reconnect/) due to privacy or security issues, so instead added support for a SOCKS5 proxy or Tor via Orbot. I'm not sure exactly what the problem was, but [Tommy Tran](https://tommytran.io/about/) has found [issues](https://privsec.dev/posts/proxies/update-your-signal-tls-proxy/) with the Signal TLS Proxy. The main issue was resolved however. I doubt this was the reason Molly decided to remove it.
 ##### Other Features
