@@ -31,7 +31,7 @@ Anyone who can recieve calls/texts to the phone number you registered with can p
 This discussion doesn't come up in the security comminity, since there isn't a better option.. until recently.
 
 ##### Meet SimpleX
-SimpleX is a messaging app that *[doesn't](https://github.com/simplex-chat/simplex-chat/tree/stable?tab=readme-ov-file#privacy-and-security-technical-details-and-limitations)* downgrade security vs. Signal. It implements Signal's state-of-the-art double ratchet algorithm which provides forward secrecy and break-in recovery.
+SimpleX is a messaging app that *[doesn't](https://github.com/simplex-chat/simplex-chat/tree/stable?tab=readme-ov-file#privacy-and-security-technical-details-and-limitations)* downgrade security vs. Signal. It implements Signal's state-of-the-art double ratchet algorithm which provides forward secrecy and break-in recovery. Anyone can run the servers, but you should avoid that if you want network layer privacy. It's best to stick with the ones that come preset by the app as they've had good reliability in the past, are unlikely to shutdown, have the most users which makes you blend in more. It's a matter of control vs. privacy.
 ##### Privacy/security features
 - Phone numbers aren't used for account creation and therefore can't be used to discover contacts. You need to share an invite link which can be presented in the form of a QR code.
 - Invite links/QR code contain public keys so users don't need to manually verify security code to prevent MITM from SimpleX servers. The option is still there to detect MITM from the channel the link was sent over.
