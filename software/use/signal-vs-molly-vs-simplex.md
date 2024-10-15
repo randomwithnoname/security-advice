@@ -8,7 +8,7 @@ It's also worth noting that the only instant messaging apps to implement [post-q
 
 I will be comparing technical features that increase privacy/security as well as other features which lead to better usability for some people. There is an overlap for some features, but I will list privacy/security features under their own categories regardless. Signal implements features in the most private and secure way possible to achieve parity with mainstream options. 
 
-Privacy/secutity and usability are both very important. In general, if you care about privacy and security, you want to be using the provably most secure technology available, but if said technology is missing features you find useful, then you'll be less likely to use it. This is particularly important when it comes to a communications platform, as it's not only your needs that matter. If you get someone to use a "private and secure" communications app and they have a bad experience, they are unlikely to try a different one in the future, so keep that in mind when choosing.
+Privacy/security and usability are both very important. In general, if you care about privacy and security, you want to be using the provably most secure technology available, but if said technology is missing features you find useful, then you'll be less likely to use it. This is particularly important when it comes to a communications platform, as it's not only your needs that matter. If you get someone to use a "private and secure" communications app and they have a bad experience, they are unlikely to try a different one in the future, so keep that in mind when choosing.
 # Signal vs. Molly
 Molly already lists the features it adds vs. Signal, so I won't repeat those. It does miss some things though.
 ##### Privacy/security features
@@ -27,7 +27,7 @@ Anyone who can recieve calls/texts to the phone number you registered with can p
 This discussion doesn't come up in the security comminity, since there isn't a better option.. until recently.
 
 ##### Meet SimpleX
-SimpleX is a messaging app that *doesn't* [downgrade security vs. Signal](https://github.com/simplex-chat/simplex-chat/tree/stable?tab=readme-ov-file#privacy-and-security-technical-details-and-limitations). It implements Signal's state-of-the-art double ratchet algorithm which provides forward secrecy and break-in recovery.
+SimpleX is a messaging app that *[doesn't](https://github.com/simplex-chat/simplex-chat/tree/stable?tab=readme-ov-file#privacy-and-security-technical-details-and-limitations)* downgrade security vs. Signal. It implements Signal's state-of-the-art double ratchet algorithm which provides forward secrecy and break-in recovery.
 ##### Privacy/security features
 - Phone numbers aren't used for account creation and therefore can't be used to discover contacts. You need to share an invite link which can be presented in the form of a QR code.
 - Invite links/QR code contain public keys so users don't need to manually verify security code to prevent MITM from SimpleX servers. The option is still there to detect MITM from the channel the link was sent over.
