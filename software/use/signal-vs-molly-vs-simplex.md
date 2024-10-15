@@ -26,7 +26,7 @@ Signal is a centralized service that uses phone numbers for account registration
 Anyone who can recieve calls/texts to the phone number you registered with can permanently lock you out of your Signal account and impersonate you for contacts that discovered your profile via phone number, assuming they don't verify safety numbers via a different channel (ideally not based on phone numbers) and react to change. The situation is far better now that you've got the option to not use phone numbers for discovery, but getting locked out of your account **permanantly** can still be catastrophic. Anybody who works in security knows that [SIM swapping ](https://www.microsoft.com/en-us/microsoft-365-life-hacks/privacy-and-safety/what-is-sim-swapping) is a very real threat and securing phone numbers can be an impossible task depending on the provider. Signal could still use phone numbers for registration and contact discovery without tying them to accounts.
 This discussion doesn't come up in the security comminity, since there isn't a better option.. until recently.
 
-**Meet SimpleX**
+##### Meet SimpleX
 SimpleX is a messaging app that *doesn't* [downgrade security vs. Signal](https://github.com/simplex-chat/simplex-chat/tree/stable?tab=readme-ov-file#privacy-and-security-technical-details-and-limitations). It implements Signal's state-of-the-art double ratchet algorithm which provides forward secrecy and break-in recovery.
 ##### Privacy/security features
 - Phone numbers aren't used for account creation and therefore can't be used to discover contacts. You need to share an invite link which can be presented in the form of a QR code.
