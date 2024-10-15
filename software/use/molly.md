@@ -4,7 +4,9 @@
 
 Aside from the features listed on [its README](https://github.com/mollyim/mollyim-android#features), it also lets you hide the calls tab which completely hides the navigation bar when stories are disabled. 
 
-Molly can also be installed alongside Signal, which means you can use 2 Signal accounts without needing to use an Android Work Profile or Private Space. However, you cannot use the same phone number on both apps at the same time unless you setup Molly as a linked device. Only the last app registered will remain active, and the other will go offline. Remember that you are not limited to use only your main phone number - you can use any number on which you can receive SMS or phone calls at registration.
+Molly can also be installed alongside Signal, which means you can use 2 Signal accounts without needing to use an Android Work Profile or Private Space. However, you cannot use the same phone number on both apps at the same time unless you setup Molly as a linked device. Only the last app registered will remain active, and the other will go offline. Remember that you are not limited to use only your main phone number - you can use any number on which you can receive SMS or phone calls at registration, including landlines.
+
+You should make sure you use a number which you will retain access to as anyone who can recieve calls/texts from the phone nunber you registered with can lock you out of your Signal account and impersonate you for you used your phone number for contact discovery with, assuming they don't verify safety numbers via another channel and react to change.
 
 If you are currently a Signal user and want to use Molly instead of Signal (with the same phone number), see [Migrating From Signal](https://github.com/mollyim/mollyim-android/wiki/Migrating-From-Signal) on the Molly wiki.
 
