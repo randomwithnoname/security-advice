@@ -93,4 +93,4 @@ I do not want to push people towards less secure options, but lying about Signal
 Anyone who can recieve calls/texts to the phone number you registered with can permanently lock you out of your Signal account and impersonate you for contacts that discovered your profile via phone number, assuming they don't verify safety numbers via a different channel (ideally not based on phone numbers) and react to change. The situation is far better now that you've got the option to not use phone numbers for discovery, but getting locked out of your account **permanantly** can still be catastrophic. Anybody who works in security knows that [SIM swapping ](https://www.microsoft.com/en-us/microsoft-365-life-hacks/privacy-and-safety/what-is-sim-swapping) is a very real threat and securing phone numbers can be an impossible task depending on the provider.
 
 
-# Molly vs. SimpleX
+# Molly vs. SimpleX aaa
