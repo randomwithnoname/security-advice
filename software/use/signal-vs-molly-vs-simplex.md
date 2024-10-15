@@ -27,10 +27,15 @@ Anyone who can recieve calls/texts to the phone number you registered with can p
 This discussion doesn't come up in the security comminity, since there isn't a better option.. until recently.
 
 **Meet SimpleX**
+SimpleX is a messaging app that *doesn't* [downgrade security vs. Signal](https://github.com/simplex-chat/simplex-chat/tree/stable?tab=readme-ov-file#privacy-and-security-technical-details-and-limitations). It implements Signal's state-of-the-art double ratchet algorithm which provides forward secrecy and break-in recovery.
 ##### Privacy/security features
-- Email addresses or phone numbers aren't used for account creation and therefore can't be used to discover contacts. You need to share an invite link which can be presented in the form of a QR code.
+- Phone numbers aren't used for account creation and therefore can't be used to discover contacts. You need to share an invite link which can be presented in the form of a QR code.
+- Invite links/QR code contain public keys so users don't need to manually verify security code to prevent MITM from SimpleX servers. The option is still there to detect MITM from the channel the link was sent over.
 ##### Other features
-SimpleX is a messaging app that *doesn't* downgrade security vs. Signal. 
+- Signal has stories like on Snapchat, etc. SimpleX doesn't.
+- Signal has built-in gifs and stickers. SimpleX doesn't, however a keyboard app can still provide them.
+- Signal has group calls. SimpleX doesn't.
+Signal has a built-in image editor. SimpleX doesn't.
 ## SimpleX vs. Molly
 - SimpleX allows you to set a manual database passphrase rather than relying on Keystore on Android or Keychain or iOS. On desktop, it prompts you to set a manual passphrase during the setup, but you can optionally use a random passphrase which is stored in a text file. Molly has a list of commonly used passwords and will block you from using them and any other weak passwords. Molly also has an option to automatically lock the database if you've not unlocked it for a certain amount of time. SimpleX has that option for it's SimpleX Lock feature, which lets you lock the app with your device unlock method (PIN, biometrics, etc) or a separate PIN. That is not encrypting the database, and it has no rate limit so any determined non-technical attacker can bypass it.
 
