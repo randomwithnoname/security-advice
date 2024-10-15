@@ -36,6 +36,7 @@ SimpleX is a messaging app that *[doesn't](https://github.com/simplex-chat/simpl
 - Signal has built-in gifs and stickers. SimpleX doesn't, however a keyboard app can still provide them.
 - Signal has group calls. SimpleX doesn't.
 - Signal has a built-in image editor. SimpleX doesn't.
+- Signal has a calls tab which shows your history of calls made within Signal, as well as making it easier for people who struggle to navigate their phone to initiate calls.
 ## SimpleX vs. Molly
 - SimpleX allows you to set a manual database passphrase rather than relying on Keystore on Android or Keychain or iOS. On desktop, it prompts you to set a manual passphrase during the setup, but you can optionally use a random passphrase which is stored in a text file. Molly has a list of commonly used passwords and will block you from using them and any other weak passwords. Molly also has an option to automatically lock the database if you've not unlocked it for a certain amount of time. SimpleX has that option for it's SimpleX Lock feature, which lets you lock the app with your device unlock method (PIN, biometrics, etc) or a separate PIN. That is not encrypting the database, and it has no rate limit so any determined non-technical attacker can bypass it.
 
