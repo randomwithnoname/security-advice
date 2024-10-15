@@ -31,6 +31,7 @@ Anyone who can recieve calls/texts to the phone number you registered with can p
 This discussion doesn't come up in the security comminity, since there isn't a better option.. until recently.
 
 **Meet SimpleX**
+
 SimpleX is a messaging app that *doesn't* downgrade security vs. Signal. 
 # SimpleX vs. Molly
 - SimpleX allows you to set a manual database passphrase rather than relying on Keystore on Android or Keychain or iOS. On desktop, it prompts you to set a manual passphrase during the setup, but you can optionally use a random passphrase which is stored in a text file. Molly has a list of commonly used passwords and will block you from using them and any other weak passwords. Molly also has an option to automatically lock the database if you've not unlocked it for a certain amount of time. SimpleX has that option for it's SimpleX Lock feature, which lets you lock the app with your device unlock method (PIN, biometrics, etc) or a separate PIN. That is not encrypting the database, and it has no rate limit so any determined non-technical attacker can bypass it.
