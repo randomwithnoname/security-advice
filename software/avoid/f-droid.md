@@ -12,6 +12,6 @@ F-Droid still has problems with their repository system across both the official
 
 It's straightforward to include a persistent JobScheduler job for automatic updates which downloads the new APK(s) and installs them as updates. Apps can rely on the standard Android signing key pinning and signature verification. They simply need to verify it's an update, not a new APK.
 
-People can verify initial downloads via the [AppVerifier](software/use/appverifier.md) app. AppVerifier is published in [Accrescent](software/use/accrescent.md)., which is an app store distributing official developer builds in a secure way. Accrescent can simply provide filters for open source, reproducible, etc. for people who want it.
+People can verify initial downloads via the [AppVerifier](/software/use/appverifier.md) app. AppVerifier is published in [Accrescent](/software/use/accrescent.md)., which is an app store distributing official developer builds in a secure way. Accrescent can simply provide filters for open source, reproducible, etc. for people who want it.
 
 [Obtainium](/software/use/obtainium.md) is already a much better option than F-Droid, and has built-in support for AppVerifier. F-Droid is not a good fit for people who care about privacy and security. Open source does not make things magically private and secure. Their approach and ideology conflict with those principles.
