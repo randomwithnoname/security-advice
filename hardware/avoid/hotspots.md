@@ -1,12 +1,13 @@
-[🔗](./calyx-hotspots.md)
+[🔗](./hotspots.md)
 
 To summarize:
 
 1) Dedicated Hotspot devices aren't good for privacy/security.
 2) Use airplane mode + Wi-Fi with [GrapheneOS](https://grapheneos.org/)' default per-connection MAC randomization for better privacy.
 
-Using a very niche hardware device to connect to the network such as a standalone hotspot device stands out. Those devices are also far less secure than simply using a Pixel with [GrapheneOS](https://grapheneos.org/). They typically don't get proper updates and lack basic security measures.
+Using a very niche hardware device to connect to the network such as a standalone hotspot device stands out. Those devices are also far less secure than simply using a Pixel with [GrapheneOS](https://grapheneos.org/).
 ![hotspots](https://github.com/randomwithnoname/security-advice/blob/main/hardware/avoid/hotspots.jpg)
+They typically don't get proper updates and lack basic security measures.
 For example, MiFi X PRO is essentially a low-end, poorly secured Qualcomm smartphone with an outdated SoC in a different form factor.
 
 https://inseego.com/products/mobile-hotspot-routers/mifi-x-pro/#product-specifications
@@ -28,6 +29,4 @@ To clarify, an access point means a router such as Wi-Fi hotspot from a phone. I
 
 Using a separate hotspot device WiFi allows your location to be tracked by more parties via MAC address or SSID, while not solving the original cell tower triangulation location tracking problem.
 
-You still have to trust that airplane mode works in your phone regardless, so what exactly does this achieve beyond trusting a provably less secure device, and how does it improve privacy? 
-
-$100 to someone who can [tell me](https://github.com/randomwithnoname/security-advice/issues/new)..
+You still have to trust that airplane mode works in your phone regardless, so what exactly does this achieve beyond trusting a provably less secure device, and how does it improve privacy?
