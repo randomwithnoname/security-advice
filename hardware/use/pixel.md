@@ -1,3 +1,4 @@
+[🔗](https://github.com/randomwithnoname/security-advice/tree/main/hardware/use/pixel.md)
 Google Pixels are the most secure Android devices available.
 They recieve [complete monthly Android Security Bulletin patches without any regular delays](https://source.android.com/docs/security/bulletin/pixel), receive new monthly, quarterly and yearly releases of AOSP within several months to provide new security improvements in the month they're released, among other [ security features](https://grapheneos.org/faq#future-devices) not offered in full by most other devices.
 
