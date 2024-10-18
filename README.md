@@ -9,6 +9,6 @@ Amateur security advice, but you should listen to me for some reason.
 
 It may seem a little black and white to label things as either "Use" or "Avoid." I realize there are *some* issues with almost everything, and it will sometimes come down to the individual's needs weighed against their threat model. If you need to use legacy carrier-based communications or Telegram because the people (or companies/organizations/institutions) you need to speak to are using them and won't install a better app, then that's a compromise you'll have to make. Most of the software I recommend avoiding is marketed specifically for privacy/security, isn't good at providing either, has no meaningful network effect, and therefore can and should be avoided.
 
-This resource would not exist if it weren't for [GrapheneOS](https://grapheneos.org/). They post extremely useful information [on X](https://x.com/grapheneos), and this resource is currently mostly just archiving that information in a way that is easy to find. Please support GrapheneOS if you care about privacy/security. They make very good use of donations.
+This resource would not exist if it weren't for [GrapheneOS](https://grapheneos.org/). and the extremely useful information they post [on X](https://x.com/grapheneos), Please support GrapheneOS if you care about privacy/security. They make very good use of donations.
 
 *I am not affiliated with GrapheneOS or any project I mention.*
