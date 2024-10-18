@@ -1,4 +1,4 @@
-[🔗](/e-os.md)
+[🔗](./e-os.md)
 
 /e/OS is by far the least secure of the mainstream alternative OS options. It's a fork of [LineageOS](https://github.com/randomwithnoname/security-advice/blob/main/avoid/lineageos.md), which already significantly rolls back security, but they make things much worse. No one who cares at all about basic privacy and security should use /e/OS; an iPhone is far better.
 
