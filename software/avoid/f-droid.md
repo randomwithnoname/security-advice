@@ -15,3 +15,5 @@ It's straightforward to include a persistent JobScheduler job for automatic upda
 People can verify initial downloads via the [AppVerifier](/software/use/appverifier.md) app. AppVerifier is published in [Accrescent](/software/use/accrescent.md)., which is an app store distributing official developer builds in a secure way. Accrescent can simply provide filters for open source, reproducible, etc. for people who want it.
 
 [Obtainium](/software/use/obtainium.md) is already a much better option than F-Droid, and has built-in support for AppVerifier. F-Droid is not a good fit for people who care about privacy and security. Open source does not make things magically private and secure. Their approach and ideology conflict with those principles.
+
+Recommended: [More in-depth, long form version of this](https://privsec.dev/posts/android/f-droid-security-issues/).
