@@ -7,7 +7,7 @@ Amateur security advice, but you should listen to me for some reason.
 - [Hardware You Should Avoid If You Care About Privacy or Security](https://github.com/randomwithnoname/security-advice/blob/main/hardware/avoid/README.md)
 - [Hardware You Should Use If You Care About Privacy and Security](hardware/use/README.md)
 
-It may seem a little black and white to label things as either "Use" or "Avoid." I realize there are *some* issues with almost everything, and it will sometimes come down to the individual's needs weighed against their threat model. If you need to use legacy carrier-based communications or Telegram because the people (or companies/organizations/institutions) you need to speak to are using them and won't install a better app, then that's a compromise you'll have to make. Most of the software I recommend avoiding is marketed specifically for privacy/security, isn't good at providing either, has no meaningful network effect, and therefore can and should be avoided.
+Most of the software I recommend avoiding is marketed as being private/secure, isn't good at providing either, has no meaningful network effect, and therefore can and should be avoided. If you need to use insecure communication methods because people, companies etc. you need to talk to insist on using it, there's no shame in that. All we can do is [educate people](https://simplex.chat/#privacy-protects-freedom) on the risks of using insecure communication.
 
 This resource would not exist if it weren't for [GrapheneOS](https://grapheneos.org/) and the extremely useful information they post [on X](https://x.com/grapheneos). Please support GrapheneOS if you care about privacy/security. They make very good use of donations.
 
