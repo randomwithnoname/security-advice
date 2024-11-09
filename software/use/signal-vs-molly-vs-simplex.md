@@ -48,12 +48,8 @@ SimpleX is a messaging app that *[doesn't](https://github.com/simplex-chat/simpl
 
 - Block unknown contacts is not applicable at all in SimpleX. Only people you choose to connect with by sharing an invite link can contact you. Invite links can be deleted and you won't lose any contacts/groups you've already connected to.
 
-- Call history is purged with disappearing messages in SimpleX.
-
 - There is no option to disable debug logs in SimpleX. It needs to be clarified.
 
 - There is no option to schedule backups in SimpleX. It needs to be done manually.
-
-- SimpleX has built-in support for using a SOCKS proxy, including Tor provided by another app like Orbot or InviZible Pro.
 
 - SimpleX does not support UnifiedPush. Work is being put into improving the current system instead as UnifiedPush would only have a benefit if you have multiple apps using the same channel. [UnifiedPush adoption is extremly low](https://unifiedpush.org/users/apps/).
