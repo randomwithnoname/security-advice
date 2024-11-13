@@ -1,6 +1,6 @@
 [🔗](./session.md)
 
-Session stopped using the industry-standard [Signal protocol](https://en.m.wikipedia.org/wiki/Signal_Protocol) (used by Facebook Messenger, Google Messages, WhatsApp) and has lost [Perfect Forward Secrecy (PFS)](https://en.m.wikipedia.org/wiki/Forward_secrecy) and [deniability](https://en.m.wikipedia.org/wiki/Deniable_authentication).
+Session stopped using the industry-standard [Signal protocol](https://en.m.wikipedia.org/wiki/Signal_Protocol), therefore has lost [Perfect Forward Secrecy (PFS)](https://en.m.wikipedia.org/wiki/Forward_secrecy) and [deniability](https://en.m.wikipedia.org/wiki/Deniable_authentication).
 
 Perfect Forward Secrecy means that even if an attacker gets the encrypted messages and later compromises your device to obtain your main keys, they can't access the messages that no longer have session keys on your device.
 
