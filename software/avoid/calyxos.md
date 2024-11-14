@@ -3,6 +3,8 @@
 CalyxOS is still based on Android 14 QPR3 without the full October security patches or the already released November security patches.
 As of November 14 2024, CalyxOS is promoted as being privacy and security focused, but it weakens both compared to the Android Open Source Project (AOSP). It often falls weeks or even months behind on standard privacy and security patches and introduces new vulnerabilities. They mislead their users about this.
 
+They support insecure devices and mislead users about the security of them, including end-of-life Pixel devices. No OS can make a device not recieving OEM support secure. Period.
+
 They make inaccurate claims about which patches are shipped in each of their release notes and set an inaccurate Android security patch level field. They downplay the importance of shipping these patches. Their own changes largely reduce rather than improve privacy and security.
 
 CalyxOS uses the [problematic microG](./microg.md).
