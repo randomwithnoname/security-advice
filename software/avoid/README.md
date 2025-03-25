@@ -5,7 +5,7 @@
 - [F-Droid](./f-droid.md)
 
 ## Browsers
-- TO-DO
+- [Firefox](./firefox.md)
 
 ## Operating systems
 - [Debian](./debian.md)
